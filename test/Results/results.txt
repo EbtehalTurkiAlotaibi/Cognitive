@@ -1,0 +1,2 @@
+Average Total Time=	204871.0	Average Waiting Time=	0.0	Throughput.1=	62.0	Throughput.2=	302.0	Job Completion Rate=	100.0
+Average Total Time=	0.0	Average Waiting Time=	0.0	Throughput.1=	400.0	Throughput.2=	400.0	Job Completion Rate=	100.0
