@@ -1,9 +1,9 @@
 from setuptools import setup
 import os
-SAMPLE_CONFIG = os.path.expanduser("~/.haizea/sample_config")
-HOME = os.path.expanduser("~/.haizea")
-TRACES_MULTI = os.path.expanduser("~/.haizea/traces/multi")
-TRACES = os.path.expanduser("~/.haizea/traces")
+SAMPLE_CONFIG = os.path.expanduser("~/.cognitive/sample_config")
+HOME = os.path.expanduser("~/.cognitive")
+TRACES_MULTI = os.path.expanduser("~/.cognitive/traces/multi")
+TRACES = os.path.expanduser("~/.cognitive/traces")
 setup(name='haizea',
 version='1.0',
 description='Haizea',
